@@ -13,5 +13,8 @@ The solutions merely represent the solution that I came up with at the time usin
 
 Mostly imperative programming was used to solve the challenges, although some solutions also employ object-oriented programming.
 
+Great care has also been taken to explain the logic, in human-readable format, behind the Python code.
+If you're stuck, try to follow along the comments (preceded by a #) I left in the .py solution files.
+
 It is highly advisable to view the Python files in the PyCharm IDE, see --> https://www.jetbrains.com/pycharm/download/ <--.
 PyCharm is a very competent Full-featured IDE for Python & Web development.
