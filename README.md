@@ -1,7 +1,7 @@
 # Advent_of_Code_2017_python_3
 Repository containing my personally-crafted Python 3 solutions for Advent of Code (AoC) 2017.
 
-Acknowledgements is due to Michael Gilliland @ https://www.youtube.com/channel/UCnw33kRSHT8736gwEERDswA
+Acknowledgements are due to Michael Gilliland @ https://www.youtube.com/channel/UCnw33kRSHT8736gwEERDswA
 as well as Quint Daenen @ http://quint.ulyssis.be/content/AdventOfCode17
 for shedding light on solving: day_13 and day_23.
 
