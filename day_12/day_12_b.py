@@ -1,6 +1,8 @@
 # .-------------------------------------------------------------------------------------.
 # | Puzzle Author:  Eric Wastl; http://was.tl/                                          |
 # | Python 3 Solution Author:  Henri Branken                                            |
+# | GitHub Repository: https://github.com/HenriBranken/Advent_of_Code_2017_python_3     |
+# | My email address:  henri dot branken777 at gmail dot com                            |
 # | Date:  December 2017                                                                |
 # | Event:  Advent of Code 2017                                                         |
 # | Day 12:  Digital Plumber, Part 2                                                    |
