@@ -3,7 +3,7 @@ Repository containing my personally-crafted Python 3 solutions for Advent of Cod
 
 Acknowledgements are due to Michael Gilliland @ https://www.youtube.com/channel/UCnw33kRSHT8736gwEERDswA
 as well as Quint Daenen @ http://quint.ulyssis.be/content/AdventOfCode17
-for shedding light on solving: day_13 and day_23.
+for giving me insight on solving: day_13, day_23, and day_24.
 
 A heartfelt thank you also to Willie le Grange who first introduced me to AoC in mid December 2017.
 
