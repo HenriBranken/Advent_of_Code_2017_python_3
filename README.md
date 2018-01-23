@@ -18,5 +18,11 @@ Mostly imperative programming was used to solve the challenges, although some so
 Great care has also been taken to explain the logic, in human-readable format, behind the Python code.
 If you're stuck, try to follow along the comments (preceded by a #) I left in the .py solution files.
 
+Each "day folder" contains the following files (let's use day_01 for illustration purposes):
+[i]   day_01_a.py  ==> the solution to Part 1 of the problem.
+[ii]  day_01_b.py  ==> the solution to Part 2 of the problem (note however that day_25 does not have a Part 2).
+[iii] day_01_input.txt ==> The puzzle input that needs to be loaded by day_01_{a, b}.py.  In the case a folder does not contain this file (e.g. day_03), then the puzzle input is stored in day_01_{a, b}.py itself.
+[iv]  day_01_puzzle.txt ==> A description of the problem that needs to be solved.
+
 It is highly advisable to view the Python files in the PyCharm IDE, see --> https://www.jetbrains.com/pycharm/download/ <--.
 PyCharm is a very competent Full-featured IDE for Python & Web development.
