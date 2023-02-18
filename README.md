@@ -5,8 +5,6 @@ Acknowledgements are due to Michael Gilliland @ https://www.youtube.com/channel/
 as well as Quint Daenen @ http://quint.ulyssis.be/content/AdventOfCode17
 for giving me insight on solving: day_13, day_23, and day_24.
 
-A heartfelt thank you also to Willie le Grange who first introduced me to AoC in mid December 2017.
-
 This repository contains my personally-crafted solutions to the Advent of Code 2017 challenge.
 Refer to the original website --> https://adventofcode.com/ <-- for more details.
 
